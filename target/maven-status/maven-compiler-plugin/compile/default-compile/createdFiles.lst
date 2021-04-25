@@ -1,0 +1,10 @@
+com\opti\shope\shared\dto\AddressDto.class
+com\opti\shope\shared\dto\TransactionDto.class
+com\opti\shope\ui\model\request\AddressDetailRequestModel.class
+com\opti\shope\ui\model\request\UserDetailRequestModel.class
+com\opti\shope\ui\model\request\UserLoginRequestModel.class
+com\opti\shope\ui\model\response\UserRest.class
+com\opti\shope\ui\model\response\AddressRest.class
+com\opti\shope\ui\model\response\TransactionRest.class
+com\opti\shope\shared\dto\UserDto.class
+com\opti\shope\ui\model\request\TransactionDetailRquestModel.class

@@ -1,0 +1,10 @@
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\request\AddressDetailRequestModel.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\response\AddressRest.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\response\TransactionRest.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\request\TransactionDetailRquestModel.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\request\UserDetailRequestModel.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\response\UserRest.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\shared\dto\UserDto.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\shared\dto\AddressDto.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\ui\model\request\UserLoginRequestModel.java
+P:\web-app-ms\web-app-model\src\main\java\com\opti\shope\shared\dto\TransactionDto.java
