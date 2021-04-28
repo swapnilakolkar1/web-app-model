@@ -18,7 +18,7 @@ public class UserDto implements Serializable {
 	private AddressDto address;
 	private List<TransactionDto> transactions;
 	private byte profilePic[];
-    private String profilePicFileFormat;
+    private String profilePicFileName;
 	
 	
 	public String getFirstName() {
@@ -93,14 +93,11 @@ public class UserDto implements Serializable {
 	public void setProfilePic(byte[] profilePic) {
 		this.profilePic = profilePic;
 	}
-	public String getProfilePicFileFormat() {
-		return profilePicFileFormat;
+	public String getProfilePicFileName() {
+		return profilePicFileName;
 	}
-	public void setProfilePicFileFormat(String profilePicFileFormat) {
-		this.profilePicFileFormat = profilePicFileFormat;
+	public void setProfilePicFileName(String profilePicFileName) {
+		this.profilePicFileName = profilePicFileName;
 	}
-
-	
-	
 
 }
